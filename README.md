@@ -48,6 +48,3 @@ runs/<RUN_TAG>/results/final/gds/full_adder.gds
 
 RTL-to-GDS is the process of converting a hardware description (Verilog RTL) into a fabrication-ready physical chip layout (GDS-II), passing through synthesis, floorplanning, placement, clock tree synthesis, routing, and signoff checks (DRC/LVS/STA).
 
-## License
-
-This project is released under the Apache 2.0 License, consistent with OpenLane's licensing.
